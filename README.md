@@ -1,6 +1,6 @@
 # pass_gen
 
-Simple alphanumeric password generator in rust.
+Simple alphanumeric password generator in rust. Now at version 1.0 and stable.
 
 ### Building
 Uses the cargo build system
